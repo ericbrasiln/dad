@@ -1,0 +1,69 @@
+format: jb-book
+root: index
+options: 
+  numbered: True
+chapters:
+- file: resumo.md
+- file: cr/cr_intro
+  sections:
+  - file: cr/livros
+    title: Livros publicados
+  - file: cr/sap
+    title: Artigos e comunicações na SAP
+  - file: cr/lafronde
+    title: Artigos em La Fronde
+  - file: cr/outros
+    title: Demais publicações
+- file: mapas/mapa_intro
+  sections:
+  - file: mapas/mapa1
+  - file: mapas/mapa2
+  - file: mapas/mapa3
+  - file: mapas/mapa4
+  - file: mapas/mapa5
+  - file: mapas/mapa6
+  - file: mapas/mapa7
+  - file: mapas/mapa8
+  - file: mapas/mapa9
+- file: episodios/episodes_intro
+  sections:
+  - file: episodios/EP1-E1.md
+  - file: episodios/EP2-E2.md
+  - file: episodios/EP5-E4.md
+  - file: episodios/EP7-E4.md
+  - file: episodios/EP10-E5.md
+  - file: episodios/EP13-E5.md
+  - file: episodios/EP14-E6.md
+  - file: episodios/EP16-E6.md
+  - file: episodios/EP17-E6.md
+  - file: episodios/EP18-E7.md
+  - file: episodios/EP20-E8.md
+  - file: episodios/EP24-E9.md
+- file: roteiros/roteiros_intro
+  sections:
+  - file: roteiros/rot1
+    title: Darwin, gênero e raça
+  - file: roteiros/rot2
+    title: Clémence Royer, gênero e raça
+  - file: roteiros/rot3
+    title: Educação antiopressiva
+- file: planos/planos_intro
+  sections:  
+  - file: planos/plano1
+    title: Evolução
+  - file: planos/plano2
+    title: Darwinismo social em Clémence Royer
+- file: validacao/validacao_intro
+  sections:
+  - file: validacao/doc
+    title: Por docentes
+  - file: validacao/fem
+    title: Por movimento social feminista
+- file: imagens.md
+- file: zotero.md
+- file: apendices/apendices_intro
+  sections:
+  - file: apendices/quest
+    title: Questionário para coleta de dados
+  - file: apendices/termos
+    title: Termos de consentimento

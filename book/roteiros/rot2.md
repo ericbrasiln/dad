@@ -1,0 +1,1 @@
+# Roteiro para discussão: Clémence Royer, gênero e raça
