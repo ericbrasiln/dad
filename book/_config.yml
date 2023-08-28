@@ -5,6 +5,9 @@ author                      : <a href="https://yacifarias.github.io/">Yaci Faria
 copyright                   : "2023"  # Copyright year to be placed in the footer
 logo                        : "logo.png"  # A path to the book logo
 exclude_patterns            : [_build]
+code_hide: 
+  - remove-input
+  - remove-output
 #######################################################################################
 # Execution settings
 execute:
