@@ -7,6 +7,7 @@ Objetiva organizar, caracterizar e disponibilizar ao público, referências sobr
 ```{figure} ./imgs/zot.png
 :name: zot
 :align: center
+:scale: 50%
 
 Logo da biblioteca
 ```
