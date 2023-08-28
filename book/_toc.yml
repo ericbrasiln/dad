@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 options: 
-  numbered: True
+  numbered: 2
 chapters:
 - file: resumo.md
 - file: cr/cr_intro
