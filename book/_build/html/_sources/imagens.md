@@ -9,6 +9,8 @@
 Fluxograma da pedagogia crítica
 ```
 
+---
+
 ```{figure} ./imgs/fases.png
 :name: fases
 :align: center
