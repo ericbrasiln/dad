@@ -1,0 +1,50 @@
+Pendências do site
+
+Yaci deve produzir
+
+1.2. A pesquisa
+
+Escrever parágrafo explicando brevemente as etapas da pesquisa, os arquivos visitados etc.
+
+1.3. Estrutura
+
+Explicar brevemente a estrutura da tese e do site
+
+2. Clémence Royer
+
+fig. 2.1. referência completa
+
+2.2 lista de livros publicados
+
+esses links estão todos funcionando? testa eles.
+
+2.3. Lista de artigos/comunicações na SAP
+
+- Colocar nome por extenso das siglas
+- Não existem links para essas publicações? Ou pelo menos a referência completa?
+
+2.4 Lista de artigos na La Fronde
+
+Não tem os dados
+
+2.5. Lista com demais publicações
+
+Não tem os dados
+
+5. Roteiros para discussão
+
+- Parágrafo inicial explicando o que é
+
+7. Instrumentos de validação
+
+- Parágrafo inicial explicando o que é
+
+8. Imagens e gráficos
+
+- Separar as iamgens e legendas
+
+10. Apêndices da tese
+
+- Parágrafo inicial explicando o que é
+
+

@@ -3,7 +3,7 @@
 title                       : "Educação antiopressiva no ensino de evolução"
 author                      : <a href="https://yacifarias.github.io/">Yaci Farias</a>  # The author of the book
 copyright                   : "2023"  # Copyright year to be placed in the footer
-logo                        : "logo.png"  # A path to the book logo
+logo                        : ""  # A path to the book logo
 exclude_patterns            : [_build]
 code_hide: 
   - remove-input

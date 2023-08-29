@@ -1,8 +1,4 @@
-![banner1](./imgs/teste-banner-yaci/1.png)
-
----
-
-![banner2](./imgs/teste-banner-yaci/2.png)
+![banner1](./imgs/banner.png)
 
 ---     
 
