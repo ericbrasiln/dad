@@ -9,3 +9,5 @@ Também é possível acessar os _mapas de atividades_ elaborados a partir da an�
 Por fim, é possível também visualizar a seção dos apêndices apresentados na tese, com os termos, questionários, roteiros e instrumentos de validação da SD.
 
 O site está disponível na pasta [book](book/) e foi criado por [Eric Brasil](https://ericbrasiln.github.io) utilizando Jupyter Book e pode ser acessado no endereço [https://yacifarias.github.io](https://yacifarias.github.io).
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este repositório está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
