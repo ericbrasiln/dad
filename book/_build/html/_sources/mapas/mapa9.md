@@ -1,7 +1,12 @@
 # Mapa da aula IX
 
+![](imgs/pagina29.png)
+![](imgs/pagina30.png)
+![](imgs/pagina31.png)
+![](imgs/pagina32.png)
+
+---
+
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](mapa9.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique na aqui](pdf/mapa9.pdf) para baixar a versão em PDF deste roteiro para discussão.
