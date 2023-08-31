@@ -1,7 +1,10 @@
 # Mapa da aula I 
 
+![](imgs/pagina1.png)
+![](imgs/pagina2.png)
+
+---
+
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](mapa1.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique na aqui](pdf/mapa1.pdf) para baixar a versão em PDF deste roteiro para discussão.

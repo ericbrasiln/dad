@@ -1,7 +1,11 @@
 # Mapa da aula VII
 
+![](imgs/pagina22.png)
+![](imgs/pagina23.png)
+![](imgs/pagina24.png)
+
+---
+
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](mapa7.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique na aqui](pdf/mapa7.pdf) para baixar a versão em PDF deste roteiro para discussão.

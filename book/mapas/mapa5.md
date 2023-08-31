@@ -1,7 +1,11 @@
 # Mapa da aula V
 
+![](imgs/pagina15.png)
+![](imgs/pagina16.png)
+![](imgs/pagina17.png)
+![](imgs/pagina18.png)
+---
+
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](mapa5.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique na aqui](pdf/mapa5.pdf) para baixar a versão em PDF deste roteiro para discussão.
