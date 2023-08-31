@@ -86,3 +86,9 @@ Perguntas referentes a pratica didática na aula sobre Clémence Royer
 
 Jogo do tabuleiro
 ```
+
+---
+
+## Versão em PDF
+
+[Clique na aqui](pdf/plano2.pdf) para baixar a versão em PDF.

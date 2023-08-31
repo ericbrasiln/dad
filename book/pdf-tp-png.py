@@ -2,7 +2,7 @@ from pdf2image import convert_from_path
 from PyPDF2 import PdfReader
 
 # abrir o arquivo PDF
-with open('mapas/mapas1-9.pdf', 'rb') as pdf_file:
+with open('validacao/pdf/valid-quadros.pdf', 'rb') as pdf_file:
     # criar um objeto PdfReader
     pdf_reader = PdfReader(pdf_file)
 

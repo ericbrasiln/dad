@@ -20,6 +20,4 @@ Com base no texto de Kevin Kumashiro sobre Educação Anti-opressiva (2000), res
 
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](rot3.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique aqui](pdf/rot3.pdf) para baixar a versão em PDF deste roteiro para discussão.

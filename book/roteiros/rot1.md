@@ -21,6 +21,4 @@ Após ler os capítulos sobre raças humanas (VII) e caracteres sexuais secundá
 
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](rot1.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique aqui](pdf/rot1.pdf) para baixar a versão em PDF deste roteiro para discussão.

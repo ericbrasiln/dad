@@ -61,6 +61,4 @@ Se a teoria do Sr. Darwin explica o presente, ela nos dá a mesma explicação d
 
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](rot2.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique aqui](pdf/rot2.pdf) para baixar a versão em PDF deste roteiro para discussão.
