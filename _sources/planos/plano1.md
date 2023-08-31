@@ -71,4 +71,8 @@ Imagem 1
 Imagem 2
 ```
 
+---
 
+## Versão em PDF
+
+[Clique na aqui](pdf/plano1.pdf) para baixar a versão em PDF.

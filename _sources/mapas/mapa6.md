@@ -8,4 +8,4 @@
 
 ## Versão em PDF
 
-[Clique na aqui](pdf/mapa6.pdf) para baixar a versão em PDF deste roteiro para discussão.
+[Clique na aqui](pdf/mapa6.pdf) para baixar a versão em PDF.
