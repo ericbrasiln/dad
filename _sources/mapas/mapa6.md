@@ -1,7 +1,11 @@
 # Mapa da aula VI
 
+![](imgs/pagina19.png)
+![](imgs/pagina20.png)
+![](imgs/pagina21.png)
+
+---
+
 ## Versão em PDF
 
-[![download](../imgs/dlicon.png)](mapa6.pdf)
-
-Clique na seta para baixar a versão em PDF deste roteiro para discussão.
+[Clique na aqui](pdf/mapa6.pdf) para baixar a versão em PDF deste roteiro para discussão.
